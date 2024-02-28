@@ -34,6 +34,7 @@
 		//左子树范围的最小值是minVal，最大值是当前节点的值，也就是root的值，因为左子树的值要比当前节点小
 		//右子数范围的最大值是maxVal，最小值是当前节点的值，也就是root的值，因为右子树的值要比当前节点大
 		return isValidBST(root.left, minVal, root.val) && isValidBST(root.right, root.val, maxVal);
+		//一次小小尝试
 		}
 	}
 }
