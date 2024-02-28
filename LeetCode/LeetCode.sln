@@ -33,7 +33,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "链表5_回文链表", "..\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "链表6_环形链表", "..\链表6_环形链表\链表6_环形链表.csproj", "{C0718727-B518-4FF7-AFCA-42724CF97CA5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "树_二叉树的最大深度", "..\树_二叉树的最大深度\树_二叉树的最大深度.csproj", "{881A9D50-84A3-40A1-A0FB-BFBD8B5B708A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "树_二叉树的最大深度", "..\树_二叉树的最大深度\树_二叉树的最大深度.csproj", "{881A9D50-84A3-40A1-A0FB-BFBD8B5B708A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "树_验证二叉树", "..\树_验证二叉树\树_验证二叉树.csproj", "{06579096-288E-4D20-B0E1-A6048E988E20}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -237,6 +239,18 @@ Global
 		{881A9D50-84A3-40A1-A0FB-BFBD8B5B708A}.Release|x64.Build.0 = Release|Any CPU
 		{881A9D50-84A3-40A1-A0FB-BFBD8B5B708A}.Release|x86.ActiveCfg = Release|Any CPU
 		{881A9D50-84A3-40A1-A0FB-BFBD8B5B708A}.Release|x86.Build.0 = Release|Any CPU
+		{06579096-288E-4D20-B0E1-A6048E988E20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06579096-288E-4D20-B0E1-A6048E988E20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06579096-288E-4D20-B0E1-A6048E988E20}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{06579096-288E-4D20-B0E1-A6048E988E20}.Debug|x64.Build.0 = Debug|Any CPU
+		{06579096-288E-4D20-B0E1-A6048E988E20}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{06579096-288E-4D20-B0E1-A6048E988E20}.Debug|x86.Build.0 = Debug|Any CPU
+		{06579096-288E-4D20-B0E1-A6048E988E20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06579096-288E-4D20-B0E1-A6048E988E20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06579096-288E-4D20-B0E1-A6048E988E20}.Release|x64.ActiveCfg = Release|Any CPU
+		{06579096-288E-4D20-B0E1-A6048E988E20}.Release|x64.Build.0 = Release|Any CPU
+		{06579096-288E-4D20-B0E1-A6048E988E20}.Release|x86.ActiveCfg = Release|Any CPU
+		{06579096-288E-4D20-B0E1-A6048E988E20}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
