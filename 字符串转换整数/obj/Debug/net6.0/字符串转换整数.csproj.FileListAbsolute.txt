@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\C#\C#复习\字符串转换整数\bin\Debug\net6.0\字符串转换整数.exe
+C:\Users\admin\Desktop\C#\C#复习\字符串转换整数\bin\Debug\net6.0\字符串转换整数.deps.json
+C:\Users\admin\Desktop\C#\C#复习\字符串转换整数\bin\Debug\net6.0\字符串转换整数.runtimeconfig.json
+C:\Users\admin\Desktop\C#\C#复习\字符串转换整数\bin\Debug\net6.0\字符串转换整数.dll
+C:\Users\admin\Desktop\C#\C#复习\字符串转换整数\bin\Debug\net6.0\字符串转换整数.pdb
+C:\Users\admin\Desktop\C#\C#复习\字符串转换整数\obj\Debug\net6.0\字符串转换整数.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\C#\C#复习\字符串转换整数\obj\Debug\net6.0\字符串转换整数.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\C#\C#复习\字符串转换整数\obj\Debug\net6.0\字符串转换整数.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\C#\C#复习\字符串转换整数\obj\Debug\net6.0\字符串转换整数.AssemblyInfo.cs
+C:\Users\admin\Desktop\C#\C#复习\字符串转换整数\obj\Debug\net6.0\字符串转换整数.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\C#\C#复习\字符串转换整数\obj\Debug\net6.0\字符串转换整数.dll
+C:\Users\admin\Desktop\C#\C#复习\字符串转换整数\obj\Debug\net6.0\refint\字符串转换整数.dll
+C:\Users\admin\Desktop\C#\C#复习\字符串转换整数\obj\Debug\net6.0\字符串转换整数.pdb
+C:\Users\admin\Desktop\C#\C#复习\字符串转换整数\obj\Debug\net6.0\字符串转换整数.genruntimeconfig.cache
+C:\Users\admin\Desktop\C#\C#复习\字符串转换整数\obj\Debug\net6.0\ref\字符串转换整数.dll

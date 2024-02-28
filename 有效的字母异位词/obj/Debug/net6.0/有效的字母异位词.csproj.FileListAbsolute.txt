@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\C#\C#复习\有效的字母异位词\bin\Debug\net6.0\有效的字母异位词.exe
+C:\Users\admin\Desktop\C#\C#复习\有效的字母异位词\bin\Debug\net6.0\有效的字母异位词.deps.json
+C:\Users\admin\Desktop\C#\C#复习\有效的字母异位词\bin\Debug\net6.0\有效的字母异位词.runtimeconfig.json
+C:\Users\admin\Desktop\C#\C#复习\有效的字母异位词\bin\Debug\net6.0\有效的字母异位词.dll
+C:\Users\admin\Desktop\C#\C#复习\有效的字母异位词\bin\Debug\net6.0\有效的字母异位词.pdb
+C:\Users\admin\Desktop\C#\C#复习\有效的字母异位词\obj\Debug\net6.0\有效的字母异位词.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\C#\C#复习\有效的字母异位词\obj\Debug\net6.0\有效的字母异位词.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\C#\C#复习\有效的字母异位词\obj\Debug\net6.0\有效的字母异位词.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\C#\C#复习\有效的字母异位词\obj\Debug\net6.0\有效的字母异位词.AssemblyInfo.cs
+C:\Users\admin\Desktop\C#\C#复习\有效的字母异位词\obj\Debug\net6.0\有效的字母异位词.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\C#\C#复习\有效的字母异位词\obj\Debug\net6.0\有效的字母异位词.dll
+C:\Users\admin\Desktop\C#\C#复习\有效的字母异位词\obj\Debug\net6.0\refint\有效的字母异位词.dll
+C:\Users\admin\Desktop\C#\C#复习\有效的字母异位词\obj\Debug\net6.0\有效的字母异位词.pdb
+C:\Users\admin\Desktop\C#\C#复习\有效的字母异位词\obj\Debug\net6.0\有效的字母异位词.genruntimeconfig.cache
+C:\Users\admin\Desktop\C#\C#复习\有效的字母异位词\obj\Debug\net6.0\ref\有效的字母异位词.dll

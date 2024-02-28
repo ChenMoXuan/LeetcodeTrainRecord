@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\C#\C#复习\Recover\Recover\bin\Debug\net6.0\Recover.exe
+C:\Users\admin\Desktop\C#\C#复习\Recover\Recover\bin\Debug\net6.0\Recover.deps.json
+C:\Users\admin\Desktop\C#\C#复习\Recover\Recover\bin\Debug\net6.0\Recover.runtimeconfig.json
+C:\Users\admin\Desktop\C#\C#复习\Recover\Recover\bin\Debug\net6.0\Recover.dll
+C:\Users\admin\Desktop\C#\C#复习\Recover\Recover\bin\Debug\net6.0\Recover.pdb
+C:\Users\admin\Desktop\C#\C#复习\Recover\Recover\obj\Debug\net6.0\Recover.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\C#\C#复习\Recover\Recover\obj\Debug\net6.0\Recover.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\C#\C#复习\Recover\Recover\obj\Debug\net6.0\Recover.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\C#\C#复习\Recover\Recover\obj\Debug\net6.0\Recover.AssemblyInfo.cs
+C:\Users\admin\Desktop\C#\C#复习\Recover\Recover\obj\Debug\net6.0\Recover.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\C#\C#复习\Recover\Recover\obj\Debug\net6.0\Recover.dll
+C:\Users\admin\Desktop\C#\C#复习\Recover\Recover\obj\Debug\net6.0\refint\Recover.dll
+C:\Users\admin\Desktop\C#\C#复习\Recover\Recover\obj\Debug\net6.0\Recover.pdb
+C:\Users\admin\Desktop\C#\C#复习\Recover\Recover\obj\Debug\net6.0\Recover.genruntimeconfig.cache
+C:\Users\admin\Desktop\C#\C#复习\Recover\Recover\obj\Debug\net6.0\ref\Recover.dll

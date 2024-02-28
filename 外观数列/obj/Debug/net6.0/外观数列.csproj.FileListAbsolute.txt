@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\C#\C#复习\外观数列\bin\Debug\net6.0\外观数列.exe
+C:\Users\admin\Desktop\C#\C#复习\外观数列\bin\Debug\net6.0\外观数列.deps.json
+C:\Users\admin\Desktop\C#\C#复习\外观数列\bin\Debug\net6.0\外观数列.runtimeconfig.json
+C:\Users\admin\Desktop\C#\C#复习\外观数列\bin\Debug\net6.0\外观数列.dll
+C:\Users\admin\Desktop\C#\C#复习\外观数列\bin\Debug\net6.0\外观数列.pdb
+C:\Users\admin\Desktop\C#\C#复习\外观数列\obj\Debug\net6.0\外观数列.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\C#\C#复习\外观数列\obj\Debug\net6.0\外观数列.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\C#\C#复习\外观数列\obj\Debug\net6.0\外观数列.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\C#\C#复习\外观数列\obj\Debug\net6.0\外观数列.AssemblyInfo.cs
+C:\Users\admin\Desktop\C#\C#复习\外观数列\obj\Debug\net6.0\外观数列.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\C#\C#复习\外观数列\obj\Debug\net6.0\外观数列.dll
+C:\Users\admin\Desktop\C#\C#复习\外观数列\obj\Debug\net6.0\refint\外观数列.dll
+C:\Users\admin\Desktop\C#\C#复习\外观数列\obj\Debug\net6.0\外观数列.pdb
+C:\Users\admin\Desktop\C#\C#复习\外观数列\obj\Debug\net6.0\外观数列.genruntimeconfig.cache
+C:\Users\admin\Desktop\C#\C#复习\外观数列\obj\Debug\net6.0\ref\外观数列.dll

@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\C#\C#复习\最长公共前缀\bin\Debug\net6.0\最长公共前缀.exe
+C:\Users\admin\Desktop\C#\C#复习\最长公共前缀\bin\Debug\net6.0\最长公共前缀.deps.json
+C:\Users\admin\Desktop\C#\C#复习\最长公共前缀\bin\Debug\net6.0\最长公共前缀.runtimeconfig.json
+C:\Users\admin\Desktop\C#\C#复习\最长公共前缀\bin\Debug\net6.0\最长公共前缀.dll
+C:\Users\admin\Desktop\C#\C#复习\最长公共前缀\bin\Debug\net6.0\最长公共前缀.pdb
+C:\Users\admin\Desktop\C#\C#复习\最长公共前缀\obj\Debug\net6.0\最长公共前缀.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\C#\C#复习\最长公共前缀\obj\Debug\net6.0\最长公共前缀.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\C#\C#复习\最长公共前缀\obj\Debug\net6.0\最长公共前缀.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\C#\C#复习\最长公共前缀\obj\Debug\net6.0\最长公共前缀.AssemblyInfo.cs
+C:\Users\admin\Desktop\C#\C#复习\最长公共前缀\obj\Debug\net6.0\最长公共前缀.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\C#\C#复习\最长公共前缀\obj\Debug\net6.0\最长公共前缀.dll
+C:\Users\admin\Desktop\C#\C#复习\最长公共前缀\obj\Debug\net6.0\refint\最长公共前缀.dll
+C:\Users\admin\Desktop\C#\C#复习\最长公共前缀\obj\Debug\net6.0\最长公共前缀.pdb
+C:\Users\admin\Desktop\C#\C#复习\最长公共前缀\obj\Debug\net6.0\最长公共前缀.genruntimeconfig.cache
+C:\Users\admin\Desktop\C#\C#复习\最长公共前缀\obj\Debug\net6.0\ref\最长公共前缀.dll

@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\C#\C#复习\实现strStr\bin\Debug\net6.0\实现strStr.exe
+C:\Users\admin\Desktop\C#\C#复习\实现strStr\bin\Debug\net6.0\实现strStr.deps.json
+C:\Users\admin\Desktop\C#\C#复习\实现strStr\bin\Debug\net6.0\实现strStr.runtimeconfig.json
+C:\Users\admin\Desktop\C#\C#复习\实现strStr\bin\Debug\net6.0\实现strStr.dll
+C:\Users\admin\Desktop\C#\C#复习\实现strStr\bin\Debug\net6.0\实现strStr.pdb
+C:\Users\admin\Desktop\C#\C#复习\实现strStr\obj\Debug\net6.0\实现strStr.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\C#\C#复习\实现strStr\obj\Debug\net6.0\实现strStr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\C#\C#复习\实现strStr\obj\Debug\net6.0\实现strStr.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\C#\C#复习\实现strStr\obj\Debug\net6.0\实现strStr.AssemblyInfo.cs
+C:\Users\admin\Desktop\C#\C#复习\实现strStr\obj\Debug\net6.0\实现strStr.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\C#\C#复习\实现strStr\obj\Debug\net6.0\实现strStr.dll
+C:\Users\admin\Desktop\C#\C#复习\实现strStr\obj\Debug\net6.0\refint\实现strStr.dll
+C:\Users\admin\Desktop\C#\C#复习\实现strStr\obj\Debug\net6.0\实现strStr.pdb
+C:\Users\admin\Desktop\C#\C#复习\实现strStr\obj\Debug\net6.0\实现strStr.genruntimeconfig.cache
+C:\Users\admin\Desktop\C#\C#复习\实现strStr\obj\Debug\net6.0\ref\实现strStr.dll

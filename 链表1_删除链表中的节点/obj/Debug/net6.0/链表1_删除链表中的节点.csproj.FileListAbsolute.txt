@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\C#\C#复习\链表1_删除链表中的节点\bin\Debug\net6.0\链表1_删除链表中的节点.exe
+C:\Users\admin\Desktop\C#\C#复习\链表1_删除链表中的节点\bin\Debug\net6.0\链表1_删除链表中的节点.deps.json
+C:\Users\admin\Desktop\C#\C#复习\链表1_删除链表中的节点\bin\Debug\net6.0\链表1_删除链表中的节点.runtimeconfig.json
+C:\Users\admin\Desktop\C#\C#复习\链表1_删除链表中的节点\bin\Debug\net6.0\链表1_删除链表中的节点.dll
+C:\Users\admin\Desktop\C#\C#复习\链表1_删除链表中的节点\bin\Debug\net6.0\链表1_删除链表中的节点.pdb
+C:\Users\admin\Desktop\C#\C#复习\链表1_删除链表中的节点\obj\Debug\net6.0\链表1_删除链表中的节点.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\C#\C#复习\链表1_删除链表中的节点\obj\Debug\net6.0\链表1_删除链表中的节点.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\C#\C#复习\链表1_删除链表中的节点\obj\Debug\net6.0\链表1_删除链表中的节点.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\C#\C#复习\链表1_删除链表中的节点\obj\Debug\net6.0\链表1_删除链表中的节点.AssemblyInfo.cs
+C:\Users\admin\Desktop\C#\C#复习\链表1_删除链表中的节点\obj\Debug\net6.0\链表1_删除链表中的节点.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\C#\C#复习\链表1_删除链表中的节点\obj\Debug\net6.0\链表1_删除链表中的节点.dll
+C:\Users\admin\Desktop\C#\C#复习\链表1_删除链表中的节点\obj\Debug\net6.0\refint\链表1_删除链表中的节点.dll
+C:\Users\admin\Desktop\C#\C#复习\链表1_删除链表中的节点\obj\Debug\net6.0\链表1_删除链表中的节点.pdb
+C:\Users\admin\Desktop\C#\C#复习\链表1_删除链表中的节点\obj\Debug\net6.0\链表1_删除链表中的节点.genruntimeconfig.cache
+C:\Users\admin\Desktop\C#\C#复习\链表1_删除链表中的节点\obj\Debug\net6.0\ref\链表1_删除链表中的节点.dll
