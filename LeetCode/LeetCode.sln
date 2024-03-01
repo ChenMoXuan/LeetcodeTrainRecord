@@ -35,7 +35,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "链表6_环形链表", "..\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "树_二叉树的最大深度", "..\树_二叉树的最大深度\树_二叉树的最大深度.csproj", "{881A9D50-84A3-40A1-A0FB-BFBD8B5B708A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "树_验证二叉树", "..\树_验证二叉树\树_验证二叉树.csproj", "{06579096-288E-4D20-B0E1-A6048E988E20}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "树_验证二叉树", "..\树_验证二叉树\树_验证二叉树.csproj", "{06579096-288E-4D20-B0E1-A6048E988E20}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "树_验证对称二叉树", "..\树_验证对称二叉树\树_验证对称二叉树.csproj", "{F0CD8164-2C30-447B-861A-50144F9C9BA9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -251,6 +253,18 @@ Global
 		{06579096-288E-4D20-B0E1-A6048E988E20}.Release|x64.Build.0 = Release|Any CPU
 		{06579096-288E-4D20-B0E1-A6048E988E20}.Release|x86.ActiveCfg = Release|Any CPU
 		{06579096-288E-4D20-B0E1-A6048E988E20}.Release|x86.Build.0 = Release|Any CPU
+		{F0CD8164-2C30-447B-861A-50144F9C9BA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0CD8164-2C30-447B-861A-50144F9C9BA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0CD8164-2C30-447B-861A-50144F9C9BA9}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{F0CD8164-2C30-447B-861A-50144F9C9BA9}.Debug|x64.Build.0 = Debug|Any CPU
+		{F0CD8164-2C30-447B-861A-50144F9C9BA9}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{F0CD8164-2C30-447B-861A-50144F9C9BA9}.Debug|x86.Build.0 = Debug|Any CPU
+		{F0CD8164-2C30-447B-861A-50144F9C9BA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0CD8164-2C30-447B-861A-50144F9C9BA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0CD8164-2C30-447B-861A-50144F9C9BA9}.Release|x64.ActiveCfg = Release|Any CPU
+		{F0CD8164-2C30-447B-861A-50144F9C9BA9}.Release|x64.Build.0 = Release|Any CPU
+		{F0CD8164-2C30-447B-861A-50144F9C9BA9}.Release|x86.ActiveCfg = Release|Any CPU
+		{F0CD8164-2C30-447B-861A-50144F9C9BA9}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

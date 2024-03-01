@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zP3YLRNUhOAJkHypC2o/nbHZUIbOnCzC+ksprhaNQCKAqW8wwNZv5UmRNiX9yntkcfWr7RQRB3eAXDiwXPf/6A==",
+  "dgSpecHash": "MnAyeLfiE9c359A099LL+kg2jhe6XQeoSPLLGLtRRig6FBF+zGFcsikq+FJKnj9JuM9XHJN8lMGSidlc6Ve8XQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\admin\\Desktop\\C#\\C#复习\\验证回文串\\验证回文串.csproj",
+  "projectFilePath": "D:\\CSharp\\C#\\C#复习\\验证回文串\\验证回文串.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

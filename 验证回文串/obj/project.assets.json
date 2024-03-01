@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\admin\\Desktop\\C#\\C#复习\\验证回文串\\验证回文串.csproj",
+      "projectUniqueName": "D:\\CSharp\\C#\\C#复习\\验证回文串\\验证回文串.csproj",
       "projectName": "验证回文串",
-      "projectPath": "C:\\Users\\admin\\Desktop\\C#\\C#复习\\验证回文串\\验证回文串.csproj",
+      "projectPath": "D:\\CSharp\\C#\\C#复习\\验证回文串\\验证回文串.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\admin\\Desktop\\C#\\C#复习\\验证回文串\\obj\\",
+      "outputPath": "D:\\CSharp\\C#\\C#复习\\验证回文串\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

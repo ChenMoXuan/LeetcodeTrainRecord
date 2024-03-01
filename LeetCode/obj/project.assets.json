@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\admin\\Desktop\\C#\\C#复习\\LeetCode\\字符串中第一个唯一字符.csproj",
+      "projectUniqueName": "D:\\CSharp\\C#\\C#复习\\LeetCode\\字符串中第一个唯一字符.csproj",
       "projectName": "字符串中第一个唯一字符",
-      "projectPath": "C:\\Users\\admin\\Desktop\\C#\\C#复习\\LeetCode\\字符串中第一个唯一字符.csproj",
+      "projectPath": "D:\\CSharp\\C#\\C#复习\\LeetCode\\字符串中第一个唯一字符.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\admin\\Desktop\\C#\\C#复习\\LeetCode\\obj\\",
+      "outputPath": "D:\\CSharp\\C#\\C#复习\\LeetCode\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\admin\\Desktop\\C#\\C#复习\\树_验证二叉树\\树_验证二叉树.csproj": {}
+    "D:\\CSharp\\C#\\C#复习\\树_验证二叉树\\树_验证二叉树.csproj": {}
   },
   "projects": {
-    "C:\\Users\\admin\\Desktop\\C#\\C#复习\\树_验证二叉树\\树_验证二叉树.csproj": {
+    "D:\\CSharp\\C#\\C#复习\\树_验证二叉树\\树_验证二叉树.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\admin\\Desktop\\C#\\C#复习\\树_验证二叉树\\树_验证二叉树.csproj",
+        "projectUniqueName": "D:\\CSharp\\C#\\C#复习\\树_验证二叉树\\树_验证二叉树.csproj",
         "projectName": "树_验证二叉树",
-        "projectPath": "C:\\Users\\admin\\Desktop\\C#\\C#复习\\树_验证二叉树\\树_验证二叉树.csproj",
+        "projectPath": "D:\\CSharp\\C#\\C#复习\\树_验证二叉树\\树_验证二叉树.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\admin\\Desktop\\C#\\C#复习\\树_验证二叉树\\obj\\",
+        "outputPath": "D:\\CSharp\\C#\\C#复习\\树_验证二叉树\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
